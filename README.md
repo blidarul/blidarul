@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on a maze project for university.
-- 🌱 I’m currently learning C with the raylib library.
+- 🌱 I’m currently learning C and using the raylib library.
 
 ## My Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=blidarul&theme=radical)
